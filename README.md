@@ -26,24 +26,4 @@
   4. check multiple of 5
      * print Buzz
   
-  ```java
-  public static void main (String[] args){
-      
-  }
-
-  public static void fizzBuzz(int n){
-
-    for(int i = 0; i < n; i++){
-			if(n % 3 == 0 && n % 5 == 0){
-				System.out.println("FizzBuzz");
-				continue;
-			}
-			if(n % 3 == 0){
-				System.out.println("Fizz");
-				continue;
-			}
-			if(n % 5 == 0 )
-				System.out.println("Buzz");
-				continue;
-		}
-  }
+https://github.com/seaboyz/coding-interview/blob/990a49ddc8d6e9c2b4744faa95eecc8ec95f158e/Sanbox/src/App.java#L6
