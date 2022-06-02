@@ -1,4 +1,7 @@
-
+- [Coding-Interview](#coding-interview)
+	- [INfoSys questions](#infosys-questions)
+	- [Coding-Interview](#coding-interview-1)
+		- [1. FizzBuzz](#1-fizzbuzz)
 
 # Coding-Interview
 
@@ -16,8 +19,8 @@
 11. Write code to sort an array of numbers.
 12. Write a program to swap two variables without using a temp variable.
 
-## 1. FizzBuzz
-
+## Coding-Interview
+### 1. FizzBuzz
   1. loop from 1 to n;
   2. check multiple of 3 and 5
      * print FizzBuzz
